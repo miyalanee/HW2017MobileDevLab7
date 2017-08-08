@@ -1,5 +1,4 @@
-package com.diglesia.hw2017mobiledev.lab7;
-
+package com.miya.hw2017mobiledev.lab7;
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
 import android.support.test.runner.AndroidJUnit4;
@@ -21,6 +20,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.diglesia.hw2017mobiledev.lab7", appContext.getPackageName());
+        assertEquals("com.miya.hw2017mobiledev.lab7", appContext.getPackageName());
     }
 }
